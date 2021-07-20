@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GinleyP87/jest-another-RPG.git"
+  },
+  "author": "GinleyP87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GinleyP87/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/GinleyP87/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
